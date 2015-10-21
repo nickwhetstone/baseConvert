@@ -1,5 +1,5 @@
-# baseconvert
-This program aims to provide an easy-to-use command-line tool to convert decimal numbers to other bases.
+# baseConvert
+baseConvert aims to provide an easy-to-use command-line tool to convert decimal numbers to other bases.
 
 Currently supported bases:
 1 through 62
