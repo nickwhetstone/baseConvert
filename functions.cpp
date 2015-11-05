@@ -55,7 +55,7 @@ void mainMenu()
                 exit(EXIT_SUCCESS);
                 break;
             default: std::cout << "Error: Try again." << std::endl;
-                     mainMenu()
+                     mainMenu();
                      break;
         }
     }
