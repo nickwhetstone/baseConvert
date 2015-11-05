@@ -53,6 +53,10 @@ void mainMenu()
                 break;
             case 'X':
                 exit(EXIT_SUCCESS);
+                break;
+            default: std::cout << "Error: Try again." << std::endl;
+                     mainMenu()
+                     break;
         }
     }
 }
